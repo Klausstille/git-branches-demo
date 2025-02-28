@@ -3,3 +3,4 @@
 -   Still in the second feature branch!
 -   commit number one
 -   commit number two
+-   commit number three
