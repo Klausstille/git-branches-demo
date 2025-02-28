@@ -2,3 +2,4 @@
 -   This is yet another feature. It's better than the one before...
 -   Still in the second feature branch!
 -   commit number one
+-   commit number two
