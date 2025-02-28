@@ -1,2 +1,2 @@
-It's a beautiful day ☀
-This is a new feature!!!!
+-   It's a beautiful day ☀
+-   This is yet another feature. It's better than the one before...
